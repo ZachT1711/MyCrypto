@@ -14,7 +14,7 @@
     "@ledgerhq/hw-app-eth": "4.48.0",
     "@ledgerhq/hw-transport-node-hid-noevents": "4.48.0",
     "@ledgerhq/hw-transport-u2f": "4.46.0",
-    "@ledgerhq/hw-transport-webusb": "4.56.0",
+    "@ledgerhq/hw-transport-webusb": "4.78.0",
     "@mycrypto/eth-scan": "1.1.0",
     "@mycrypto/ui": "0.20.3",
     "@parity/qr-signer": "0.3.1",
