@@ -80,7 +80,7 @@
     "semver": "5.5.0",
     "slick-carousel": "1.8.1",
     "styled-components": "4.0.2",
-    "trezor-connect": "7.0.1",
+    "trezor-connect": "8.1.12",
     "trezor.js": "6.17.5",
     "uuid": "3.2.1",
     "wallet-address-validator": "0.2.4",
