@@ -60,7 +60,7 @@
     "react-copy-to-clipboard": "5.0.1",
     "react-dom": "16.8.6",
     "react-hot-loader": "4.12.15",
-    "react-markdown": "3.3.0",
+    "react-markdown": "5.0.0",
     "react-onclickoutside": "6.7.1",
     "react-redux": "5.0.7",
     "react-responsive": "7.0.0",
