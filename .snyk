@@ -1,0 +1,26 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - redux > lodash:
+        patched: '2022-10-08T23:00:05.937Z'
+    - react-redux > lodash:
+        patched: '2022-10-08T23:00:05.937Z'
+    - recharts > lodash:
+        patched: '2022-10-08T23:00:05.937Z'
+    - yup > lodash:
+        patched: '2022-10-08T23:00:05.937Z'
+    - mycrypto-shepherd > redux > lodash:
+        patched: '2022-10-08T23:00:05.937Z'
+    - recharts > react-smooth > lodash:
+        patched: '2022-10-08T23:00:05.937Z'
+    - styled-components > babel-plugin-styled-components > lodash:
+        patched: '2022-10-08T23:00:05.937Z'
+    - mycrypto-shepherd > remote-redux-devtools > redux-devtools-core > lodash:
+        patched: '2022-10-08T23:00:05.937Z'
+    - mycrypto-shepherd > remote-redux-devtools > redux-devtools-instrument > lodash:
+        patched: '2022-10-08T23:00:05.937Z'
+    - styled-components > babel-plugin-styled-components > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-10-08T23:00:05.937Z'
