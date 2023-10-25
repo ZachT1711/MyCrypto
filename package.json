@@ -27,7 +27,7 @@
     "bn.js": "4.11.8",
     "bootstrap-sass": "3.3.7",
     "classnames": "2.2.5",
-    "crypto-js": "3.1.9-1",
+    "crypto-js": "4.2.0",
     "cryptocurrency-icons": "0.13.0",
     "electron-updater": "2.21.10",
     "ethereum-blockies-base64": "1.0.2",
