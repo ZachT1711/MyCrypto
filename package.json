@@ -81,7 +81,7 @@
     "slick-carousel": "1.8.1",
     "styled-components": "4.0.2",
     "trezor-connect": "7.0.1",
-    "trezor.js": "6.17.5",
+    "trezor.js": "9.3.4",
     "uuid": "3.2.1",
     "wallet-address-validator": "0.2.4",
     "whatwg-fetch": "2.0.3",
